@@ -5,7 +5,6 @@ file=($1)
 var=($2)
 C_way=(/home/arthur/programming/C_Scripts)
 Sh_way=(/home/arthur/programming/Shell_Scripts)
-Py_way=(/home/arthur/programming/Python_Scripts)
 
 #script
 if [ ${var} == -c ]; then
