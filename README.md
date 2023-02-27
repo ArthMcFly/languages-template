@@ -1,2 +1,3 @@
 # languages-template
-shell script to set the default template for programming laguages
+This is a shell script to set the template files for a specific programing language,
+you have to specify the directories in the your-language_way variable 
